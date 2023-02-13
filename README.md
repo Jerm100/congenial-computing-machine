@@ -1,1 +1,1 @@
-# congenial-computing-machine
+CODE_OF_CONDUCT.md
